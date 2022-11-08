@@ -2,7 +2,7 @@
 
 This repository holds various files that are part of small projects as an introduction to C++ language. They are organize in topics gradually seen during my lectures.  
 
-In-Comment texts are in French.
+In-Comment texts are in **French** to conform with the instruction language of the unit.
 
 Files are organized in directories with concept-name format, indicating the focus and learning objective of the folder.
 
