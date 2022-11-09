@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-   //Common types in C++
+   //types de base C++
 
     int anneeDeNaissance = 2000;
     float moyenne = 4.5;
