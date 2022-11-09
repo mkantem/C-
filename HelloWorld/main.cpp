@@ -4,11 +4,12 @@ using namespace std;
 
 int main()
 {
-	float blablabla;
-    cout << "Entrez SVP votre salaire annuel ";
-    cin>>blablabla;
-	cout<<"\nLe salaire mensuel est " << blablabla/12 <<endl;
-	cout<<"\nVous gagnerez dans 10 ans "  << blablabla *10;
+	// Déclaration d'une variable de type float 
+	float salAnnuel;
+    	cout << "Entrez SVP votre salaire annuel ";
+    	cin>>salAnnuel;
+	cout<<"\nLe salaire mensuel est " << salAnnuel/12 <<endl;
+	cout<<"\nVous gagnerez dans 10 ans "  << SalAnnuel *10;
 
     cin.ignore();
     cin.get();
