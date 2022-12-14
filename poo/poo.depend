@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1670959724 source:z:\teaching\2022 - 2023\c++\cpp-workspace\poo\main.cpp
+	<iostream>
+	"Employe.hpp"
+
+1670960559 z:\teaching\2022 - 2023\c++\cpp-workspace\poo\employe.hpp
+	<iostream>
+
